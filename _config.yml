@@ -9,18 +9,15 @@ permalink:        pretty
 # Setup
 title:            Brandon Cane
 tagline:          'A Jekyll theme'
-description:      'Hmmm'
-url:              http://hyde.getpoole.com
+description:      'A site for Brandon and things'
 baseurl:          /
 
 author:
   name:           'Brandon Cane'
-  url:            https://twitter.com/mdo
 
 paginate:         5
 paginate_path: "page:num"
 # Custom vars
-version:          2.1.0
 
 github:
   repo:           https://github.com/BrandonCane507
