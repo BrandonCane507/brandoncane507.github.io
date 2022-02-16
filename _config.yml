@@ -22,5 +22,5 @@ paginate:         5
 paginate_path: "page:num"
 # Custom vars
 
-#github:
-  #repo:           https://github.com/BrandonCane507
+github:
+  repo:           https://github.com/BrandonCane507
