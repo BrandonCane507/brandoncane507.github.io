@@ -11,7 +11,7 @@ permalink:        pretty
 
 # Setup
 title:            Brandon Cane
-tagline:          'A Jekyll theme'
+#tagline:          'A Jekyll theme'
 description:      'A site for Brandon and things'
 baseurl:          /
 
@@ -22,5 +22,5 @@ paginate:         5
 paginate_path: "page:num"
 # Custom vars
 
-github:
-  repo:           https://github.com/BrandonCane507
+#github:
+  #repo:           https://github.com/BrandonCane507
