@@ -17,6 +17,7 @@ description:      'A site for Brandon and things'
 
 author:
   name:           'Brandon Cane'
+  url:            https://sites.pitt.edu/~blc95/
 
 paginate:         5
 paginate_path: "page:num"
