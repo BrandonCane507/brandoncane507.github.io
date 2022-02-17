@@ -14,7 +14,7 @@ permalink:        pretty
 title:            Brandon Cane
 #tagline:          'A Jekyll theme'
 description:      'A site for Brandon and things'
-baseurl:          /brandoncane507.github.io
+baseurl:          /
 
 author:
   name:           'Brandon Cane'
