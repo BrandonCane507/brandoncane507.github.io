@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Astrophotography 
+title: Research
 permalink: /astrophotography
 ---
 
-Here I will put my things
+Hmmm, a test.
