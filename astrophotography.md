@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Research
+title: Astrophotography
 permalink: /astrophotography
 ---
 
