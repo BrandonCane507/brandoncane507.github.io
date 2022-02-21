@@ -4,4 +4,4 @@ title: Astrophotography
 permalink: /astrophotography
 ---
 
-Hmmm, a test.
+why does it say research rn. shit be fucked
