@@ -1,6 +1,6 @@
 # Dependencies
 markdown:         redcarpet
-permalink:        /:title
+
 highlighter:      pygments
 gems: [jekyll-paginate]
 plugins:
