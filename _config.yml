@@ -15,7 +15,7 @@ title:            Brandon Cane
 #tagline:          'A Jekyll theme'
 description:      'A site for Brandon and things'
 url:              "https://brandoncane507.github.io"
-baseurl:          /hyde/
+baseurl:          "/"
 
 author:
   name:           'Brandon Cane'
